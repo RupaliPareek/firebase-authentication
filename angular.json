@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-authentication"
+    }
+  },
+  "defaultProject": "angular-authentication",
+  "cli": {
+    "analytics": "9b3a7b48-d7d3-4aa1-899c-65b06c68d0ad"
+  }
 }
